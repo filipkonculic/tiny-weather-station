@@ -1,0 +1,12 @@
+.App {
+  display: flex;          
+  flex-direction: column;     
+  height: 100vh;  
+  align-items: center;        
+  text-align: center; 
+}
+
+.chart-container {
+  width: 1000px;
+  height: 500px;
+}
